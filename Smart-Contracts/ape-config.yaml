@@ -1,0 +1,6 @@
+networks:
+  default: development
+  development:
+    ethereum:
+      local:
+        default_provider: hardhat
