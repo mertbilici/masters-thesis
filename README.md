@@ -1,6 +1,8 @@
 # masters-thesis
 This is the Source Code supporting my Master's Degree dissertation.
 The Proof-of-Concept includes an anti-malware solution that has a Comand Line Interface used for scanning files and blockchain operations.
+Link to the demo video explaining the functions of this code:
+https://drive.google.com/drive/folders/1yrm-Pw5hCLL-xE_F6CeiH_DwtRolkAic?usp=drive_link
 
 Explanation of the files and folders within this repository:
 Dataset --> Contains the dataset used for training the machine learning algorithm
